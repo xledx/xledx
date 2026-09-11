@@ -1,16 +1,19 @@
-## Hi there 👋
+# LED-M
 
-<!--
-**xledx/xledx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former engineer.  
+Making music since the ’90s as **Led-M**.  
+Exploring generative AI on old Intel Macs with **OCLP**.
 
-Here are some ideas to get you started:
+## Old platforms
+MSX / X1 / X68000 / PC-98 / PC/AT / UNIVAC UP10E
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & low-level work
+C / C++ / BASIC / low-level programming
+
+## Current research
+Exploring ways to keep older computers useful in the age of generative AI.
+
+## Music
+[Bandcamp](https://led-m.bandcamp.com/)  
+[SoundCloud](https://soundcloud.com/user-96978190)
+
