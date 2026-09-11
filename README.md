@@ -17,3 +17,4 @@ Exploring ways to keep older computers useful in the age of generative AI.
 [Bandcamp](https://led-m.bandcamp.com/)  
 [SoundCloud](https://soundcloud.com/user-96978190)
 
+🍵 [Buy me a matcha](https://ko-fi.com/xledx)
