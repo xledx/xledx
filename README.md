@@ -19,5 +19,8 @@ Exploring ways to keep older computers useful in the age of generative AI.
 
 ## Tips
 
-If you enjoy my published music or open-source work, you can leave an optional tip.
+LED-M publishes music and open-source technical research.
+
+Tips are optional appreciation for music and open-source content that has already been published.
+
 🍵 [Buy me a matcha](https://ko-fi.com/xledx)
